@@ -104,7 +104,7 @@
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/75c12b45-64a5-444d-b267-41ae9eeda3f9" />
 
 ### 2 вариант
-При запуске программы пользователь видит текстовое поле, под ним кнопки с числами от 1 до 9, с арифметическими действиями и кнопки "Стереть" и "Расчитать."
+При запуске программы пользователь видит текстовое поле, под ним кнопки с числами от 1 до 9, с арифметическими действиями и кнопки "Стереть" и "=."
 
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/18a213f0-f3cc-416f-aeb1-065b8848c5e9" />
 
@@ -113,7 +113,7 @@
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/07c18f61-facb-416a-aab4-f0ed7d0ff931" />
 
 При нажатии на кнопку "Стереть" поле полностью очистится.
-При нажатии на кнопку "Рассчитать" программа выведет результат.
+При нажатии на кнопку "=" программа выведет результат.
 
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/f8110c73-eec7-44a3-8eaf-abd65657d3e6" />
 
