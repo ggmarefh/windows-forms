@@ -16,3 +16,9 @@
 Если же число угадано, то появляется сообщение о завершении игры. Также на сообщении можно увидеть еольчество попыток.
 <img width="355" height="188" alt="image" src="https://github.com/user-attachments/assets/88dbc174-3e1f-42e4-a9a8-bd1d9b36cbc3" />
 ## Случайный цвет
+При запуске открывается окно, с кнопкой "Случайный цвет" в центре.
+<img width="800" height="482" alt="image" src="https://github.com/user-attachments/assets/b47b282d-749e-4a3e-a642-e69ac681657f" />
+
+При нажатии на кнопку программа генерирует три случайных значения r, g и b. На основании этих значений появляется новый цвет фона.
+<img width="809" height="490" alt="image" src="https://github.com/user-attachments/assets/fd69ce32-2cf6-47b9-9e8a-fe327c0bc821" />
+## Отображение текста
