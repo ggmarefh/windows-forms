@@ -38,4 +38,15 @@
 
 Пользователь пишет свой текст в поле и при нажатии на любую кнопку, введенный текст появится на ней. 
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/7a5c94f3-3fdc-470a-8c87-30df52f36e49" />
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/1140684b-eb79-4a87-8c2e-ecfa2999b279" />
+
+## Отображение метки
+Программа предназначена для отображения скрытых меток при нажатии на кнопку. При запуске пользователь видит 4 кнопки, рядом с ними есть метки, но они не видны пользователю.
+<img width="452" height="482" alt="image" src="https://github.com/user-attachments/assets/cee293eb-2b9f-43eb-b3fc-d39fa3f8d900" />
+
+При нажатии на кнопку метки становятся видимыми.
+<img width="452" height="480" alt="image" src="https://github.com/user-attachments/assets/5f6b39a4-b1a0-4e12-9f1c-13f9d02e23dd" />
+
+
+
 
