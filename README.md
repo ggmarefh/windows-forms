@@ -5,21 +5,22 @@
 ## Игра угадай число
 Программа генерирует случайное число, которое пользователь должен угадать.
 При запуске пользователь видит текстовое поле, под ним находится счетчик попыток, кнопки "Угадать" и "Заново". Справа от кнопки можно увидеть подсказки.
-<img width="730" height="490" alt="image" src="https://github.com/user-attachments/assets/0d83129d-a8d5-4751-8a1e-1318bbff649a" />
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/0d83129d-a8d5-4751-8a1e-1318bbff649a" />
 
 Пользователь вводит предполагаемое число в текстовое поле и нажимает кнопку "Угадать".
-<img width="722" height="485" alt="image" src="https://github.com/user-attachments/assets/8dc70b65-2154-4444-a95d-9e66e9c3e807" />
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/8dc70b65-2154-4444-a95d-9e66e9c3e807" />
 
 После проверки введенного числа программа сообщается результат. Если число не угадано, пользователь получает подсказку.
-<img width="723" height="485" alt="image" src="https://github.com/user-attachments/assets/1baa84f3-9b6e-4185-b937-54a2175ca0aa" />
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/1baa84f3-9b6e-4185-b937-54a2175ca0aa" />
 
 Если же число угадано, то появляется сообщение о завершении игры. Также на сообщении можно увидеть еольчество попыток.
-<img width="355" height="188" alt="image" src="https://github.com/user-attachments/assets/88dbc174-3e1f-42e4-a9a8-bd1d9b36cbc3" />
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/88dbc174-3e1f-42e4-a9a8-bd1d9b36cbc3" />
 ## Случайный цвет
 При запуске открывается окно, с кнопкой "Случайный цвет" в центре.
-<img width="800" height="482" alt="image" src="https://github.com/user-attachments/assets/b47b282d-749e-4a3e-a642-e69ac681657f" />
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/b47b282d-749e-4a3e-a642-e69ac681657f" />
 
 При нажатии на кнопку программа генерирует три случайных значения r, g и b. На основании этих значений появляется новый цвет фона.
 
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/fd69ce32-2cf6-47b9-9e8a-fe327c0bc821" />
+
 ## Отображение текста
