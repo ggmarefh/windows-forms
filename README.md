@@ -85,12 +85,31 @@
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/3fe28a0e-88b3-4c04-8fdc-18e95eef98c3" />
 
 ## Канкулятор
+Калькулятор предназначен для выполнения арифметических операций, таких как сложение, вычитание, умножение и деление. Также он должен предусматривать ошибки и деление на 0.
 ### 1 вариант
+При запуске пользователь видит 4 текстовых поля. 1 для ввода первого числа, 2 для ввода операции, 3 для ввода второго числа и 4 для вывода результата. Внизу находится кнопка "Расчитать."
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/4c179ec5-5297-42d7-a5cb-a0310bccb1d0" />
 
+Пользователь вводит числа и арифметическую операцию.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/f4f25f9d-27a2-4134-b771-5f759b76e176" />
 
+После он нажимает кнопку и в последнем текстовом поле появтляется ответ.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/90280f48-aae6-47b7-a71c-04d024f006ea" />
 
+При делении на 0 программа выдаст ошибку.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/75c12b45-64a5-444d-b267-41ae9eeda3f9" />
 
+### 2 вариант
+При запуске программы пользователь видит текстовое поле, под ним кнопки с числами от 1 до 9, с арифметическими действиями и кнопки "Стереть" и "Расчитать."
 
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/18a213f0-f3cc-416f-aeb1-065b8848c5e9" />
 
+Пользователь вводит числа и действия с помощью кнопок.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/07c18f61-facb-416a-aab4-f0ed7d0ff931" />
 
+При нажатии на кнопку "Стереть" поле полностью очистится.
+При нажатии на кнопку "Рассчитать" программа выведет результат.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/f8110c73-eec7-44a3-8eaf-abd65657d3e6" />
 
+При делении на 0 программа выдаст ошибку.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/874b2703-744a-4607-bab7-0cc3bbbcca5f" />
