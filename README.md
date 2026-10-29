@@ -21,5 +21,5 @@
 
 При нажатии на кнопку программа генерирует три случайных значения r, g и b. На основании этих значений появляется новый цвет фона.
 
-<img width="405" height="300" alt="image" src="https://github.com/user-attachments/assets/fd69ce32-2cf6-47b9-9e8a-fe327c0bc821" />
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/fd69ce32-2cf6-47b9-9e8a-fe327c0bc821" />
 ## Отображение текста
