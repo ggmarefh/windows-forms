@@ -71,9 +71,11 @@
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/88d49931-dcc7-4d49-b11d-8bbff446123f" />
 
 Появляется окно для выбора куда сохранить заметку.
+
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/a878fc77-8663-45b6-a7b0-529e2995cff9" />
 
 Выводится сообщение о успешном сохранении.
+
 <img width="180" height="179" alt="image" src="https://github.com/user-attachments/assets/5be08369-123c-4802-aab7-7aef56929c38" />
 
 При нажатии на кнопку "Загрузить", появляется окно для выбора заметки.
