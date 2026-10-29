@@ -84,7 +84,8 @@
 Заметка появляется в текстовом поле и выводится сообщение о успешной загрузке.
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/3fe28a0e-88b3-4c04-8fdc-18e95eef98c3" />
 
-
+## Канкулятор
+### 1 вариант
 
 
 
