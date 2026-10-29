@@ -54,11 +54,36 @@
 
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/7a8361ea-29d1-4e88-84c6-37379631bddc" />
 
-При нажатии на кнопку "Блокировать", текстовое поле становится светло серым цветом и программа не дает в него написать текст.
+При нажатии на кнопку "Блокировать", текстовое поле становится светло серым цветом и программа не дает в него написать текст, поле становится не активным.
+
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/ba36ed8a-4bb3-4341-8ae8-d4a697eb8ffb" />
 
-При нажатии на "Разблокировать" программа дает написать текст.
+При нажатии на "Разблокировать" программа делает поле активным и в него можно написать текст.
+
 <img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/4f0f4f05-43bb-46aa-9480-e45bb38666cb" />
+
+## Приложение для заметок
+Программа предназначена для создания, сохранения и загрузки текстовых заметок. При запуске пользователь видит текстовое поле и под ним кнопки "Сохранить" и "Загрузить".
+
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/d7f605e7-4345-4348-81a6-d7f35914385a" />
+
+Пользователь вводит текст в поле и нажимает кнопку сохранить.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/88d49931-dcc7-4d49-b11d-8bbff446123f" />
+
+Появляется окно для выбора куда сохранить заметку.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/a878fc77-8663-45b6-a7b0-529e2995cff9" />
+
+Выводится сообщение о успешном сохранении.
+<img width="180" height="179" alt="image" src="https://github.com/user-attachments/assets/5be08369-123c-4802-aab7-7aef56929c38" />
+
+При нажатии на кнопку "Загрузить", появляется окно для выбора заметки.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/3852117b-829b-43e6-8cc4-0e297a6b9a93" />
+
+Заметка появляется в текстовом поле и выводится сообщение о успешной загрузке.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/3fe28a0e-88b3-4c04-8fdc-18e95eef98c3" />
+
+
+
 
 
 
