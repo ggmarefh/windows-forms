@@ -42,9 +42,11 @@
 
 ## Отображение метки
 Программа предназначена для отображения скрытых меток при нажатии на кнопку. При запуске пользователь видит 4 кнопки, рядом с ними есть метки, но они не видны пользователю.
+
 <img width="452" height="482" alt="image" src="https://github.com/user-attachments/assets/cee293eb-2b9f-43eb-b3fc-d39fa3f8d900" />
 
 При нажатии на кнопку метки становятся видимыми.
+
 <img width="452" height="480" alt="image" src="https://github.com/user-attachments/assets/5f6b39a4-b1a0-4e12-9f1c-13f9d02e23dd" />
 
 
