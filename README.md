@@ -49,6 +49,19 @@
 
 <img width="452" height="480" alt="image" src="https://github.com/user-attachments/assets/5f6b39a4-b1a0-4e12-9f1c-13f9d02e23dd" />
 
+## Блокировка и разблокировка.
+Программа предназначена для управления ввода текста в текстовое поле. При запуске пользователь видит текстовое поле и под ним кнопки "Блокировать" и "Разблокировать".
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/7a8361ea-29d1-4e88-84c6-37379631bddc" />
+
+При нажатии на кнопку "Блокировать", текстовое поле становится светло серым цветом и программа не дает в него написать текст.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/ba36ed8a-4bb3-4341-8ae8-d4a697eb8ffb" />
+
+При нажатии на "Разблокировать" программа дает написать текст.
+<img width="548" height="384" alt="image" src="https://github.com/user-attachments/assets/4f0f4f05-43bb-46aa-9480-e45bb38666cb" />
+
+
+
+
 
 
 
